@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HF.dir/main.cpp.o CMakeFiles/HF.dir/src/integrals.cpp.o CMakeFiles/HF.dir/src/basis_function.cpp.o CMakeFiles/HF.dir/src/contracted_integrals.cpp.o CMakeFiles/HF.dir/src/xyzfile_reader.cpp.o CMakeFiles/HF.dir/src/scf.cpp.o  -o HF  -lArb 
